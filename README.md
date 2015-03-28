@@ -1,7 +1,8 @@
 # Circulation
 POC akka monothread with remote actor and REST asynchrone (weld + resteasy)
 
-## Run the webservices with jetty-maven-plugin "jetty:run" for modules :
+## Run the webservices :
+(with jetty-maven-plugin "jetty:run" for modules)
 -bareme.server (port 9003)
 -client.server (asynchrone) (port 9004)
 -rail.server (port 9005)
