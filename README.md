@@ -3,11 +3,11 @@ POC akka monothread with remote actor and REST asynchrone (weld + resteasy)
 
 ## Run the webservices :
 (with jetty-maven-plugin "jetty:run" for modules)
--bareme.server (port 9003)
--client.server (asynchrone) (port 9004)
--rail.server (port 9005)
--train.server (port 9006)
--translate.server (port 9007)
+- bareme.server (port 9003)
+- client.server (asynchrone) (port 9004)
+- rail.server (port 9005)
+- train.server (port 9006)
+- translate.server (port 9007)
 
 ## Run the first akka :
 fr.cp.reseau.actor.LaunchReseau (port 2552)
