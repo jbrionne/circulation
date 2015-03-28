@@ -1,0 +1,41 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>fr.cp</groupId>
+  <artifactId>build</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  
+ <modules>
+ 
+  	<module>../circulation-parent</module>
+  	
+ 	<module>../message.core</module>
+ 	
+ 
+ 	<module>../client.api</module>
+ 	<module>../client.server</module>
+ 	<module>../client.call</module>
+ 	
+ 	<module>../bareme.api</module>
+ 	<module>../bareme.server</module>
+ 	<module>../bareme.call</module>
+ 	
+ 	<module>../translate.api</module>
+ 	<module>../translate.server</module>
+ 	<module>../translate.call</module>
+ 	
+ 	<module>../train.api</module>
+ 	<module>../train.server</module>
+ 	<module>../train.call</module>
+ 	
+ 	
+ 	<module>../rail.api</module>
+ 	<module>../rail.server</module>
+ 	<module>../rail.call</module>
+ 	
+ 	<module>../reseau.api</module>
+ 	<module>../reseau.core</module> 	
+ 
+ 	<module>../circulation</module> 
+ </modules>
+</project>

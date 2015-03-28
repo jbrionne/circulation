@@ -1,0 +1,47 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	
+	<parent>
+		<groupId>fr.circulation</groupId>
+		<artifactId>circulation-parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	
+	<groupId>fr.cp</groupId>
+	<artifactId>bareme.call</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	
+	<dependencies>	
+		
+		<dependency>
+			<groupId>fr.cp</groupId>
+			<artifactId>bareme.api</artifactId>
+		</dependency>			
+
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jaxrs</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-client</artifactId>
+		</dependency>
+		
+		<dependency>
+		     <groupId>org.jboss.resteasy</groupId>
+		      <artifactId>jaxrs-api</artifactId>
+		  </dependency>            
+
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+
+
+</project>

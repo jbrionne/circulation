@@ -1,0 +1,25 @@
+<configuration>
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+	    <!-- "application-name" is a variable -->
+	    <File>target/translate.log</File>
+	    <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+	      <Pattern>%d %p %t %c - %m%n</Pattern>
+	    </encoder>
+ 	 </appender>
+  
+  <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">  
+    <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+      <Pattern>%d [%thread] %level %logger - %m%n</Pattern>
+    </encoder>
+  </appender>
+  
+  <root level="ERROR">
+  </root>
+  
+  <logger name="fr.brionne.bc" level="DEBUG">
+  	<appender-ref ref="FILE"/>
+  	<appender-ref ref="CONSOLE"/>
+  </logger>
+	
+ 
+</configuration>

@@ -1,0 +1,966 @@
+2015-03-28 18:00:23,418 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:01:59,536 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:03:05,272 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:04:51,818 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:04:52,048 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:04:52,287 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:04:52,287 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:05:14,710 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:05:14,942 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:05:15,181 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:05:15,181 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:08,476 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:07:08,706 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:08,950 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:08,950 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:43,438 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:07:43,666 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:43,666 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:07:43,667 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:43,667 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:07:43,667 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:07:43,668 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:07:43,673 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:07:43,900 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:43,900 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:43,901 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:43,901 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:43,904 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:07:43,905 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:07:43,904 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - GetTrain
+2015-03-28 18:07:43,909 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:44,125 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - GetTrain ok
+2015-03-28 18:07:44,126 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 18:07:44,126 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:44,126 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 18:07:44,127 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:07:44,130 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Train
+2015-03-28 18:07:44,130 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 18:07:44,131 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:07:44,131 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 18:07:44,131 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Rail
+2015-03-28 18:07:44,131 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-15] - getSenders().size 1
+2015-03-28 18:07:44,131 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-15] - OK rail 1 train 1
+2015-03-28 18:08:05,913 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:08:06,140 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,140 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:08:06,140 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,140 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:08:06,140 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:08:06,146 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:08:06,153 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:08:06,371 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,371 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:08:06,372 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,372 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:08:06,375 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - GetTrain
+2015-03-28 18:08:06,375 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:08:06,375 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:08:06,376 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,580 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:08:06,580 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - GetTrain ok
+2015-03-28 18:08:06,580 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:08:06,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:08:06,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:08:06,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:08:06,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:06,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:08:06,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:08:06,586 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:08:06,586 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:08:47,864 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:08:48,106 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:48,343 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:08:48,343 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:14:47,931 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:14:48,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:14:48,426 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:14:48,428 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:17:29,286 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:17:29,518 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:17:29,747 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:17:29,758 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:22:46,438 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:22:46,669 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:22:46,895 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:22:46,905 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:25:07,315 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:25:07,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:25:07,832 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:25:07,842 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 18:27:20,762 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:27:20,997 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:27:21,218 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:27:21,228 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:30,449 INFO  fr.cp.reseau.actor.ReseauCalcul  [main] - Thread[main,5,main]
+2015-03-28 18:30:32,523 INFO  fr.cp.reseau.actor.ReseauCalcul  [main] - end main -- continue
+2015-03-28 18:30:32,523 INFO  fr.cp.reseau.actor.ReseauCalcul  [main] - do something else
+2015-03-28 18:30:32,752 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,752 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:32,752 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,752 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:32,752 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:32,753 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:30:32,757 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:32,954 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,954 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,967 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,967 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:32,968 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:30:32,969 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,166 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:30:33,171 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:30:33,171 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,175 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,177 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,178 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,179 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,180 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:30:33,181 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:30:33,182 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:30:33,182 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 20
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,183 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:33,184 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:30:42,646 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:30:42,880 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:43,108 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:30:43,118 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:01,332 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:34:01,560 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:01,784 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:01,794 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,197 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:34:41,484 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,485 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:34:41,485 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,485 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:34:41,485 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:34:41,486 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:34:41,489 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:34:41,716 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,716 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,729 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,730 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,730 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:34:41,730 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,923 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:34:41,923 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:34:41,923 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,928 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:34:41,928 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:34:41,932 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:34:41,933 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:34:41,933 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:35:22,170 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:35:22,400 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,401 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:35:22,401 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,401 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:35:22,401 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:35:22,402 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:35:22,405 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:35:22,629 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,630 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,644 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,644 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,644 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:35:22,644 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,835 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:35:22,835 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:35:22,835 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,840 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:35:22,840 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:35:22,844 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:35:22,845 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:35:22,845 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:35:48,078 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:35:48,313 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,313 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:35:48,313 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,314 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:35:48,314 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:35:48,315 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:35:48,318 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:35:48,544 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,544 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,557 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,557 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,557 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:35:48,558 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,748 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:35:48,748 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:35:48,748 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,754 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:35:48,755 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:35:48,759 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,759 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:35:48,759 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:35:48,760 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:35:48,760 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:35:48,760 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:35:48,760 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:35:48,760 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:35:48,760 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:47:56,317 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:47:56,704 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,281 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,310 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,311 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:47:57,311 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,311 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:47:57,311 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:47:57,312 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:47:57,316 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:47:57,316 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,319 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,320 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:47:57,320 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:47:57,369 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:47:57,369 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:14,619 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:48:14,845 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,070 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,080 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,080 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:48:15,080 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,080 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:48:15,080 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:48:15,081 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:48:15,085 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:48:15,085 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,086 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,088 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:48:15,088 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:15,127 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:48:15,128 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,493 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:48:50,719 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,719 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:48:50,719 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,719 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:48:50,719 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:48:50,720 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:48:50,724 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:48:50,942 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,942 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,954 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,955 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,955 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:48:50,955 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:48:50,996 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:48:50,996 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:15,025 INFO  fr.cp.reseau.actor.ReseauCalcul  [main] - Thread[main,5,main]
+2015-03-28 18:50:17,101 INFO  fr.cp.reseau.actor.ReseauCalcul  [main] - end main -- continue
+2015-03-28 18:50:17,102 INFO  fr.cp.reseau.actor.ReseauCalcul  [main] - do something else
+2015-03-28 18:50:17,327 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,327 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,327 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,327 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,327 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,328 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:50:17,331 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,524 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,524 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,537 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,537 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:50:17,538 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,580 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:50:17,580 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,580 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,581 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,583 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,584 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,585 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau not isCompleted()
+2015-03-28 18:50:17,586 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:51:40,082 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:51:40,312 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:40,533 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:40,544 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:40,544 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:51:40,544 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:40,544 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:51:40,544 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:51:40,545 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:51:40,549 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:51:40,549 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:40,550 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:40,551 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:51:40,551 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:41,167 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:51:41,167 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:51:41,167 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:41,496 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:51:41,496 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:51:41,496 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:41,500 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:51:41,500 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:51:41,500 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:51:41,500 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:51:41,500 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:51:41,500 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:51:41,514 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:51:41,514 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:54:40,306 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:54:40,553 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:40,799 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:40,809 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:40,809 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:54:40,809 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:40,809 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:54:40,809 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:54:40,810 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:54:40,813 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:54:40,814 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:40,815 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:40,824 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:54:40,825 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:41,026 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:54:41,026 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:54:41,026 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:41,033 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:54:41,033 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:54:41,033 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:41,041 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:54:41,041 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:54:41,041 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:54:41,041 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:54:41,042 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:54:41,042 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:54:41,042 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:54:41,042 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 18:59:27,016 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 18:59:27,242 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,465 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,476 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,476 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:59:27,476 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,476 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:59:27,476 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 18:59:27,477 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 18:59:27,481 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 18:59:27,481 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,482 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,484 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 18:59:27,484 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,684 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 18:59:27,685 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 18:59:27,685 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,689 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 18:59:27,689 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:59:27,689 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,693 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:59:27,693 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 18:59:27,694 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 18:59:27,694 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 18:59:27,694 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 18:59:27,694 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 18:59:27,694 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 18:59:27,695 INFO  fr.cp.reseau.actor.ListenerReseau  [reseauSystem-my-dispatcher2-14] - OK rail 1 train 1
+2015-03-28 19:01:46,193 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 19:01:46,417 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 19:01:46,639 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 19:01:46,649 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 19:04:57,421 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 19:04:57,648 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 19:04:57,651 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#1333014736]
+2015-03-28 19:04:57,874 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 19:04:57,884 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:21:11,985 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:21:12,235 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:21:12,237 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-241982287]
+2015-03-28 21:21:12,479 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:21:12,490 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:24:44,353 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:24:44,582 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:44,584 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-1875211653]
+2015-03-28 21:24:44,812 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:44,812 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:24:44,813 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 21:24:44,813 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:44,813 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 21:24:44,813 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 21:24:44,814 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 21:24:44,818 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 21:24:44,818 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:44,820 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:44,821 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 21:24:44,821 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:44,826 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - GetRail
+2015-03-28 21:24:44,827 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:24:45,039 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - GetRail ok
+2015-03-28 21:24:45,039 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 21:24:45,040 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 21:24:45,040 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:24:45,040 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 21:24:45,044 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Train
+2015-03-28 21:24:45,044 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 21:24:45,044 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:24:45,044 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 21:24:45,044 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Rail
+2015-03-28 21:24:45,046 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-15] - getSenders().size 1
+2015-03-28 21:24:45,057 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:24:45,057 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:24:45,058 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:28:48,592 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:28:48,819 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:28:48,821 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-894449325]
+2015-03-28 21:28:49,057 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:28:49,057 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:37:34,041 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:37:34,271 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:37:34,273 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-407755337]
+2015-03-28 21:37:34,509 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 21:37:34,510 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:41:20,831 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:41:21,061 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - ReseauActor Thread[reseauSystem-akka.actor.default-dispatcher-3,5,main]
+2015-03-28 21:41:21,063 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-985624019]
+2015-03-28 21:41:21,297 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-akka.actor.default-dispatcher-4] - TrainActor Thread[reseauSystem-akka.actor.default-dispatcher-4,5,main]
+2015-03-28 21:41:21,297 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-akka.actor.default-dispatcher-2] - RailActor Thread[reseauSystem-akka.actor.default-dispatcher-2,5,main]
+2015-03-28 21:46:44,370 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:46:44,606 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - ReseauActor Thread[reseauSystem-akka.actor.default-dispatcher-3,5,main]
+2015-03-28 21:46:44,608 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#1631406868]
+2015-03-28 21:46:44,843 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-akka.actor.default-dispatcher-2] - RailActor Thread[reseauSystem-akka.actor.default-dispatcher-2,5,main]
+2015-03-28 21:46:44,843 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-akka.actor.default-dispatcher-4] - TrainActor Thread[reseauSystem-akka.actor.default-dispatcher-4,5,main]
+2015-03-28 21:47:14,588 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:47:14,826 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-2] - ReseauActor Thread[reseauSystem-akka.actor.default-dispatcher-2,5,main]
+2015-03-28 21:47:14,829 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-962244715]
+2015-03-28 21:47:15,064 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-akka.actor.default-dispatcher-3] - TrainActor Thread[reseauSystem-akka.actor.default-dispatcher-3,5,main]
+2015-03-28 21:47:15,065 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-akka.actor.default-dispatcher-4] - RailActor Thread[reseauSystem-akka.actor.default-dispatcher-4,5,main]
+2015-03-28 21:56:46,158 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:56:46,384 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-2] - ReseauActor Thread[reseauSystem-akka.actor.default-dispatcher-2,5,main]
+2015-03-28 21:56:46,386 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-1776490667]
+2015-03-28 21:56:46,619 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-akka.actor.default-dispatcher-4] - TrainActor Thread[reseauSystem-akka.actor.default-dispatcher-4,5,main]
+2015-03-28 21:56:46,625 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-akka.actor.default-dispatcher-3] - RailActor Thread[reseauSystem-akka.actor.default-dispatcher-3,5,main]
+2015-03-28 21:56:53,341 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - ReseauActor onReceive
+2015-03-28 21:56:53,341 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - Thread[reseauSystem-akka.actor.default-dispatcher-3,5,main]
+2015-03-28 21:56:53,341 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - akka://reseauSystem/user/reseau
+2015-03-28 21:56:53,341 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - GetReseau
+2015-03-28 21:56:53,342 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - Create calculate GetReseau element
+2015-03-28 21:56:53,346 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-akka.actor.default-dispatcher-3] - continue .. ReseauActor onReceive
+2015-03-28 21:56:53,373 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-akka.actor.default-dispatcher-4] - TrainActor Thread[reseauSystem-akka.actor.default-dispatcher-4,5,main]
+2015-03-28 21:56:53,373 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-akka.actor.default-dispatcher-14] - RailActor Thread[reseauSystem-akka.actor.default-dispatcher-14,5,main]
+2015-03-28 21:59:13,702 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 21:59:13,941 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:13,943 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#1014031910]
+2015-03-28 21:59:14,165 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:14,175 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:24,905 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 21:59:24,905 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:24,905 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 21:59:24,906 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 21:59:24,907 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 21:59:24,911 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 21:59:24,911 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:24,912 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:24,913 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 21:59:24,913 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:25,105 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 21:59:25,105 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 21:59:25,105 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:25,113 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 21:59:25,113 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 21:59:25,114 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 21:59:25,114 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:00:43,514 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:00:43,738 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:43,740 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-527917191]
+2015-03-28 22:00:43,962 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:43,972 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,022 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:00:54,023 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,023 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:00:54,023 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:00:54,024 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 22:00:54,030 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 22:00:54,030 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,032 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,033 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 22:00:54,033 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,235 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 22:00:54,235 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 22:00:54,235 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,244 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 22:00:54,244 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:00:54,244 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,244 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:00:54,244 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 22:00:54,245 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:00:54,245 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:00:54,245 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:00:54,245 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 22:00:54,245 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:01:38,786 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:01:39,013 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:39,016 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#1462217959]
+2015-03-28 22:01:39,237 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:39,247 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,152 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:01:49,152 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,152 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:01:49,152 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:01:49,153 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 22:01:49,170 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 22:01:49,187 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,198 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,198 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 22:01:49,198 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,532 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 22:01:49,532 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 22:01:49,532 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,541 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 22:01:49,541 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:01:49,541 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,541 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:01:49,541 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 22:01:49,542 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:01:49,542 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:01:49,542 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:01:49,542 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 22:01:49,543 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:02:58,136 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:02:58,362 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:02:58,364 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-710723021]
+2015-03-28 22:02:58,586 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:02:58,596 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:10,896 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:03:10,896 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:10,896 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:03:10,896 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:03:10,897 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 22:03:10,902 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 22:03:10,914 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:10,917 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:10,917 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 22:03:10,917 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:11,250 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 22:03:11,250 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 22:03:11,250 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:11,259 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 22:03:11,259 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:03:11,259 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:11,259 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:03:11,259 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 22:03:11,260 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:03:11,260 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:03:11,260 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:03:11,260 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 22:03:11,260 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:04:28,740 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:04:28,986 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:28,988 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#-574134112]
+2015-03-28 22:04:29,208 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:29,219 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,160 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:04:41,160 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,160 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:04:41,160 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:04:41,161 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 22:04:41,171 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 22:04:41,172 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,173 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,173 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 22:04:41,173 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,455 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 22:04:41,458 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 22:04:41,458 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,467 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 22:04:41,467 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:04:41,467 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,467 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:04:41,467 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 22:04:41,468 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:04:41,475 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:04:41,475 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:04:41,475 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 22:04:41,476 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:07:34,257 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:07:34,479 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:34,482 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#1905638216]
+2015-03-28 22:07:34,701 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:34,711 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,144 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:07:49,144 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,144 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:07:49,144 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:07:49,146 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 22:07:49,150 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 22:07:49,151 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,152 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,152 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 22:07:49,152 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,358 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 22:07:49,359 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 22:07:49,359 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,367 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:07:49,368 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 22:07:49,369 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:08:29,949 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:08:30,176 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:30,179 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#2024360808]
+2015-03-28 22:08:30,401 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - TrainActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:30,411 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - RailActor Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,434 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 22:08:39,434 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,434 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 22:08:39,434 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - GetReseau
+2015-03-28 22:08:39,435 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Create calculate GetReseau element
+2015-03-28 22:08:39,439 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - continue .. ReseauActor onReceive
+2015-03-28 22:08:39,447 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,463 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,464 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - GetTrain
+2015-03-28 22:08:39,464 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,802 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-15] - GetTrain ok
+2015-03-28 22:08:39,804 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - GetRail
+2015-03-28 22:08:39,804 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,816 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-15] - GetRail ok
+2015-03-28 22:08:39,823 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 22:08:39,823 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,823 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 22:08:39,823 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Train
+2015-03-28 22:08:39,824 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - ReseauActor onReceive
+2015-03-28 22:08:39,824 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Thread[reseauSystem-my-dispatcher2-15,5,main]
+2015-03-28 22:08:39,824 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - akka://reseauSystem/user/reseau
+2015-03-28 22:08:39,825 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-15] - Rail
+2015-03-28 22:08:39,826 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-15] - getSenders().size 1
+2015-03-28 22:30:10,764 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Thread[main,5,main]
+2015-03-28 22:30:10,992 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:10,994 INFO  fr.cp.reseau.actor.LaunchReseau  [main] - Actor[akka://reseauSystem/user/reseau#1559949083]
+2015-03-28 22:30:11,221 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - TrainActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:11,233 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - RailActor Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,349 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:30:25,349 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,349 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:30:25,349 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:30:25,350 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Create calculate GetReseau element
+2015-03-28 22:30:25,364 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
+2015-03-28 22:30:25,364 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,365 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,366 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain
+2015-03-28 22:30:25,376 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,671 INFO  fr.cp.reseau.actor.TrainActor  [reseauSystem-my-dispatcher2-14] - GetTrain ok
+2015-03-28 22:30:25,671 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail
+2015-03-28 22:30:25,671 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,678 INFO  fr.cp.reseau.actor.RailActor  [reseauSystem-my-dispatcher2-14] - GetRail ok
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Train
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:30:25,679 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Rail
+2015-03-28 22:30:25,680 INFO  f.c.r.message.complex.MessageReseau  [reseauSystem-my-dispatcher2-14] - getSenders().size 1
+2015-03-28 22:32:02,233 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - ReseauActor onReceive
+2015-03-28 22:32:02,234 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - Thread[reseauSystem-my-dispatcher2-14,5,main]
+2015-03-28 22:32:02,234 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - akka://reseauSystem/user/reseau
+2015-03-28 22:32:02,234 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - GetReseau
+2015-03-28 22:32:02,234 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau element already exist
+2015-03-28 22:32:02,234 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - calculate reseau isCompleted()
+2015-03-28 22:32:02,235 INFO  fr.cp.reseau.actor.ReseauActor  [reseauSystem-my-dispatcher2-14] - continue .. ReseauActor onReceive
